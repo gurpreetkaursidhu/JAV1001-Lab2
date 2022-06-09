@@ -1,3 +1,8 @@
+/*
+Student Number - A00252915
+Name: Gurpreeet Kaur
+*/
+
 import java.util.Scanner;
 import java.util.Arrays;
 
